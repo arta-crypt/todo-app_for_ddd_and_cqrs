@@ -36,3 +36,6 @@ nb-configuration.xml
 
 ObjectStore/
 PutObjectStoreDirHere/
+
+# Security
+src/main/resources/META-INF/microprofile-config.properties

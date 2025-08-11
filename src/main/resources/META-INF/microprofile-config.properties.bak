@@ -1,3 +1,4 @@
+# GitHub管理用ファイル。実際に使用するpropertiesは公開しない
 # Microprofile server properties
 server.port=8080
 server.host=0.0.0.0
